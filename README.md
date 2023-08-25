@@ -1,2 +1,2 @@
-# darkfire-pluto.github.io
-这是我的个人网站
+# 模板
+这是一个模板
